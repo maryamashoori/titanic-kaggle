@@ -1,7 +1,8 @@
-Step By Step Predicting Survival on Titanic | Kaggle
+# Step By Step Predicting Survival on Titanic | Kaggle
 <img src="https://i.imgur.com/QoK4WwK.png" width="85%">
 
 _Requirements: Scikit-learn 0.20_
+
 This Jupyter notebook reviews and compares the performance of following classifiers on Titanic data:
 
 - Logistic Classifier
@@ -15,4 +16,7 @@ This Jupyter notebook reviews and compares the performance of following classifi
 - GradientBoosting Classifier
 - Voting Classifier
 
-This project uses the [Apache License Version 2.0](LICENSE) software license.
+It provides an accuracy of 0.80382
+
+
+License: [Apache License Version 2.0](LICENSE) software license.
